@@ -146,7 +146,7 @@
     "@types/recursive-readdir": "2.2.1",
     "@types/semver": "7.3.13",
     "@types/simple-oauth2": "5.0.0",
-    "@types/validator": "13.7.12",
+    "@types/validator": "13.7.17",
     "@typescript-eslint/eslint-plugin": "5.50.0",
     "@typescript-eslint/parser": "5.50.0",
     "cspell": "6.22.0",
